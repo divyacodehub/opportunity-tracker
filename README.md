@@ -2,6 +2,8 @@
 
 A single-page web app for students to track internships, scholarships, fellowships and other opportunities from "found it" to "selected": deadlines, application stages with history, document checklists, interviews and simple analytics. Built with plain **HTML, CSS and vanilla JavaScript**. Data stays in the browser's **LocalStorage**. There is no backend, database, login or external API.
 
+[🌐 Live Demo](https://divyacodehub.github.io/opportunity-tracker/) | [💻 GitHub Repository](https://github.com/divyacodehub/opportunity-tracker)
+
 ## Problem it solves
 
 Students juggle many applications at once, each with a different deadline, a different set of documents and several interview rounds. Spreadsheets and notes get out of date. This app keeps everything in one place and shows what needs attention next.
